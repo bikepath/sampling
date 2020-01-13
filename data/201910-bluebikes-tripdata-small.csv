@@ -1,0 +1,19 @@
+tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender
+425,10/1/19 12:00:29 AM,10/1/19 12:07:34 AM,221,Verizon Innovation Hub 10 Ware Street,42.37250865,-71.11305356,68,Central Square at Mass Ave / Essex St,42.36507,-71.1031,2990,Subscriber,1982,1
+442,10/1/19 12:00:55 AM,10/1/19 12:08:17 AM,396,Main St at Beacon St,42.41072714,-71.06266823,390,Broadway at Lynde St,42.39648358,-71.0654676,2531,Subscriber,1978,1
+1498,10/1/19 12:01:11 AM,10/1/19 12:26:09 AM,380,Mass Ave at Albany St,42.36135838,-71.09670274,81,Chinatown T Stop,42.352409,-71.062679,2961,Subscriber,1994,1
+323,10/1/19 12:02:00 AM,10/1/19 12:07:23 AM,55,Boylston St at Massachusetts Ave,42.347265,-71.088088,361,Deerfield St at Commonwealth Ave,42.34924377,-71.0972821,2793,Subscriber,1993,1
+300,10/1/19 12:02:08 AM,10/1/19 12:07:09 AM,55,Boylston St at Massachusetts Ave,42.347265,-71.088088,361,Deerfield St at Commonwealth Ave,42.34924377,-71.0972821,5860,Customer,1969,0
+271,10/1/19 12:02:19 AM,10/1/19 12:06:51 AM,89,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,115,Porter Square Station,42.387995,-71.119084,3781,Subscriber,1996,1
+1777,10/1/19 12:02:34 AM,10/1/19 12:32:12 AM,336,Mattapan T Stop,42.267902,-71.093641,336,Mattapan T Stop,42.267902,-71.093641,4137,Customer,1997,1
+506,10/1/19 12:03:00 AM,10/1/19 12:11:26 AM,206,Government Center - Cambridge St at Court St,42.35980252,-71.05960783,185,Third at Binney,42.36544486,-71.08277142,5222,Customer,1974,1
+202,10/1/19 12:03:24 AM,10/1/19 12:06:47 AM,16,Back Bay T Stop - Dartmouth St at Stuart St,42.34807412,-71.07657015,25,South End Library - Tremont St at W Newton St,42.341332,-71.076847,4977,Subscriber,1991,1
+491,10/1/19 12:03:31 AM,10/1/19 12:11:43 AM,55,Boylston St at Massachusetts Ave,42.347265,-71.088088,233,St Mary's,42.34619708,-71.10728681,3475,Subscriber,1995,2
+489,10/1/19 12:03:33 AM,10/1/19 12:11:43 AM,55,Boylston St at Massachusetts Ave,42.347265,-71.088088,233,St Mary's,42.34619708,-71.10728681,5198,Subscriber,1997,1
+715,10/1/19 12:03:48 AM,10/1/19 12:15:43 AM,273,Forest Hills,42.300923,-71.114249,422,Cummins at American Legion,42.27881158,-71.11687703,3597,Subscriber,1999,1
+417,10/1/19 12:03:51 AM,10/1/19 12:10:49 AM,67,MIT at Mass Ave / Amherst St,42.3581,-71.093198,361,Deerfield St at Commonwealth Ave,42.34924377,-71.0972821,4829,Subscriber,1996,1
+530,10/1/19 12:04:21 AM,10/1/19 12:13:12 AM,39,Washington St at Rutland St,42.3385146,-71.07404083,39,Washington St at Rutland St,42.3385146,-71.07404083,5975,Subscriber,1992,1
+239,10/1/19 12:05:36 AM,10/1/19 12:09:36 AM,10,B.U. Central - 725 Comm. Ave.,42.350406,-71.108279,33,Kenmore Square,42.348706,-71.097009,2126,Subscriber,2000,1
+3870,10/1/19 12:06:11 AM,10/1/19 1:10:41 AM,403,Marion St at Harvard St,42.33978053,-71.1213335,196,Roxbury YMCA - Warren St at MLK Blvd,42.31787329,-71.08243078,5673,Customer,1985,1
+503,10/1/19 2:07:32 AM,10/1/19 12:15:55 AM,98,Warren St at Chelsea St,42.371848,-71.060292,20,Aquarium T Stop - 200 Atlantic Ave,42.35991176,-71.05142981,5563,Subscriber,1988,1
+533,10/1/19 3:07:42 PM,10/1/19 12:16:36 AM,61,Boylston St at Fairfield St,42.348762,-71.082383,67,MIT at Mass Ave / Amherst St,42.3581,-71.093198,3906,Subscriber,1971,1
